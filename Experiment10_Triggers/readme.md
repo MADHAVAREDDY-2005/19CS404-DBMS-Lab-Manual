@@ -1,9 +1,9 @@
 # Experiment 10: PL/SQL – Triggers
-
+## Date : 15-05-2025
+## Name : K MADHAVA REDDY
+## Reg No : 212223240064
 ## AIM
 To write and execute PL/SQL trigger programs for automating actions in response to specific table events like INSERT, UPDATE, or DELETE.
-
----
 
 ## THEORY
 
