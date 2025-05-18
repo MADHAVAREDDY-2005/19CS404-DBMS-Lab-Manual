@@ -1,5 +1,7 @@
 # Experiment 1: Entity-Relationship (ER) Diagram
-
+## Date : 14-02-2025
+## Name : K MADHAVA REDDY
+## Reg No : 212223240064
 ## 🎯 Objective:
 To understand and apply the concepts of ER modeling by creating an ER diagram for a real-world application.
 
