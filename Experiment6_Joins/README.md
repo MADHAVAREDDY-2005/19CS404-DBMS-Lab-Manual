@@ -1,5 +1,7 @@
 # Experiment 6: Joins
-
+## Date : 04-04-2025
+## Name : K MADHAVA REDDY
+## Reg No : 212223240064
 ## AIM
 To study and implement different types of joins.
 
