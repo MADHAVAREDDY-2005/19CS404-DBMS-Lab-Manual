@@ -1,5 +1,7 @@
 # Experiment 5: Subqueries and Views
-
+## Date : 21-03-2025
+## Name : K MADHAVA REDDY
+## Reg No : 212223240064
 ## AIM
 To study and implement subqueries and views.
 
