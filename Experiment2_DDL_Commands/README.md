@@ -1,5 +1,7 @@
 # Experiment 2: DDL Commands
-
+## Date : 21-02-2025
+## Name : K MADHAVA REDDY
+## Reg No : 212223240064
 ## AIM
 To study and implement DDL commands and different types of constraints.
 
