@@ -1,9 +1,10 @@
 # Experiment 9: PL/SQL – Procedures and Functions
-
+## Date : 09-05-2025
+## Name : K MADHAVA REDDY
+## Reg No : 212223240064
 ## AIM
 To understand and implement procedures and functions in PL/SQL for performing various operations such as calculations, decision-making, and looping.
 
----
 
 ## THEORY
 
