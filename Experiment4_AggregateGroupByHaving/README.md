@@ -1,5 +1,7 @@
 # Experiment 4: Aggregate Functions, Group By and Having Clause
-
+## Date : 13-03-2025
+## Name : K MADHAVA REDDY
+## Reg No : 212223240064
 ## AIM
 To study and implement aggregate functions, GROUP BY, and HAVING clause with suitable examples.
 
