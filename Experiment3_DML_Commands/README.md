@@ -1,5 +1,7 @@
 # Experiment 3: DML Commands
-
+## Date : 07-03-2025
+## Name : K MADHAVA REDDY
+## Reg No : 212223240064
 ## AIM
 To study and implement DML (Data Manipulation Language) commands.
 
