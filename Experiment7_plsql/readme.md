@@ -1,5 +1,7 @@
 # Experiment 7: PL/SQL – Variables, Control Structures and Loops
-
+## Date : 11-04-2025
+## Name : K MADHAVA REDDY
+## Reg No : 212223240064
 ## AIM
 To write and execute simple PL/SQL programs using variables, loops, and conditional statements.
 
